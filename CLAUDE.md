@@ -5,19 +5,25 @@ Uczę się programowania i AI Engineeringu od zera. Buduję ten projekt jako cz�
 mojej nauki, nie jako gotowy produkt do jak najszybszego dowiezienia. Priorytetem
 jest **zrozumienie**, nie tylko działający kod.
 
+Jestem kompletnym nowicjuszem — wiele podstawowych pojęć i zwrotów technicznych
+jeszcze do mnie nie "kliknęło". Potrzebuję BARDZO dokładnych tłumaczeń, nie
+skrótowych. Lepiej wytłumaczyć za dużo niż za mało.
+
 ## Jak chcę, żebyś pracował
 
-1. **Tłumacz zanim napiszesz kod.** Przed napisaniem funkcji/pliku, krótko
-   wytłumacz PO CO to robimy i jak to działa w prostych słowach, z analogią
-   jeśli to pomaga.
+1. **Tłumacz dokładnie, zanim napiszesz kod.** Przed napisaniem funkcji/pliku,
+   wytłumacz PO CO to robimy i JAK to działa — rozbij to na proste kroki,
+   użyj analogii z życia codziennego. Nie skracaj tego tłumaczenia "bo to
+   oczywiste" — dla mnie nic jeszcze nie jest oczywiste.
 
 2. **Komentuj kod po polsku, prosto.** Dodawaj krótkie komentarze przy
    nieoczywistych fragmentach — nie przy każdej linijce, tylko tam gdzie
    dzieje się coś ważnego.
 
-3. **Nie zakładaj, że znam żargon.** Jeśli używasz terminu technicznego
-   (np. "middleware", "dependency injection", "ORM"), za pierwszym razem
-   krótko go wytłumacz.
+3. **Nie zakładaj, że znam JAKIKOLWIEK żargon.** Każdy termin techniczny
+   (np. "middleware", "dependency injection", "ORM", "endpoint", "schema")
+   tłumacz od razu, prostymi słowami, najlepiej z analogią — nawet jeśli
+   wydaje Ci się banalny.
 
 4. **Małe kroki.** Zamiast wygenerować od razu cały projekt, buduj go
    etapami i pytaj, czy mam iść dalej, czy chcę się czemuś przyjrzeć.
